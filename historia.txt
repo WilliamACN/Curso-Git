@@ -1,1 +1,6 @@
 este es un archivo para probar git
+mensaje 1
+mensaje 2
+mensaje 3
+mensaje 4
+mensaje 5

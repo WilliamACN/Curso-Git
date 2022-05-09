@@ -5,6 +5,7 @@ body{
     font-size: 16p;
     margin: 0;
     padding: 0;
+    background-color: #d5d5d5;
 }
 #cabecera {
     background-color: blueviolet;
@@ -18,11 +19,24 @@ body{
     width: 70%;
     padding: 0;
     text-align: left;
-    border:  1px solid #ddd;
-    margin: 0 auto;
+    border:  1px solid black;
+    margin: 25px auto;
+    background-color: white;
 }
 
+#cabecera .logo{
+    vertical-align: middle;
+}
 
 .container h1{
     font-size: 20px;
+}
+
+.logo{
+    height: 40px;
+    width: 40px;
+}
+
+span{
+    padding: 15px;
 }

@@ -8,3 +8,4 @@ Curso de Git
 * número 3
 * número 4
 * número 4 ejemplo cherry-pick
+* número 4 ejemplo cherry-pick 2
